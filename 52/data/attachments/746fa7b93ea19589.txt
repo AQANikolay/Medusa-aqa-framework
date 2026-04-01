@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_b8dcc096f801d72ca289b4ef1d8d0cb3642227f38095e7f69e41785921982648
+[API] Удаляем товар: prod_01KN44X2MT66WFPDBH7BYXZTPJ
+[API] Товар prod_01KN44X2MT66WFPDBH7BYXZTPJ удален!
