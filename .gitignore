@@ -1,0 +1,14 @@
+.env
+
+allure-results/
+allure-report/
+.pytest_cache/
+__pycache__/
+
+allure-2.30.0/
+
+venv/
+env/
+.idea/
+.vscode/
+master-plan
