@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_81db7ba38416f584e5ae63dc82a2d6097ca99fe9a7b2458d6c4b576b39b2f74f
-[API] Удаляем товар: prod_01KNPFM37H8BX5MWGS6DE93A3A
-[API] Товар prod_01KNPFM37H8BX5MWGS6DE93A3A удален!
