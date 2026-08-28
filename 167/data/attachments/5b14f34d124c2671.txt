@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_c331f11176df7059d06704f0cbdef1ab96f27a5c15a99cff853715caa76e2111
+[API] Удаляем товар: prod_01M151432EERZFWQMK20EWFY67
+[API] Товар prod_01M151432EERZFWQMK20EWFY67 удален!
