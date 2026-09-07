@@ -1,0 +1,5 @@
+
+[API] Генерируем ключ для корзины
+[API] Ключ получен: pk_bb5f1e7bc594b8d496315575e705d928113dda12780e3782aacda2ec261492d7
+[API] Удаляем товар: prod_01M1Y4WSNK3FAR0BQECXJPZJ1B
+[API] Товар prod_01M1Y4WSNK3FAR0BQECXJPZJ1B удален!
