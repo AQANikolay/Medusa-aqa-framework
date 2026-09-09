@@ -1,5 +1,0 @@
-
-[API] Генерируем ключ для корзины
-[API] Ключ получен: pk_5ca6640b082cd1181c68f09b02b1147008291ef775962accab04c87410a472fe
-[API] Удаляем товар: prod_01M20JBJ1PTV4NZ46D3WT3WK7S
-[API] Товар prod_01M20JBJ1PTV4NZ46D3WT3WK7S удален!
